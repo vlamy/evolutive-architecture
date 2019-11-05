@@ -15,7 +15,7 @@
    id="svg2"
    version="1.1"
    inkscape:version="0.92.4 (5da689c313, 2019-01-14)"
-   sodipodi:docname="05-nonfunct.svg">
+   sodipodi:docname="08-architect-tools.svg">
   <defs
      id="defs4">
     <marker
@@ -415,7 +415,7 @@
      inkscape:pageopacity="1"
      inkscape:pageshadow="2"
      inkscape:zoom="0.13"
-     inkscape:cx="574.38636"
+     inkscape:cx="1793.6171"
      inkscape:cy="1104.3001"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
@@ -472,29 +472,24 @@
          style="fill:#544568;fill-opacity:1;stroke-width:0.51095629" /></text>
     <text
        xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:64.62034607px;line-height:1.25;font-family:'Courier 10 Pitch';-inkscape-font-specification:'Courier 10 Pitch Bold';text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#544568;fill-opacity:1;stroke:none;stroke-width:1.61550844"
-       x="2849.2571"
-       y="-418.76138"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:67.34164429px;line-height:1.25;font-family:'Courier 10 Pitch';-inkscape-font-specification:'Courier 10 Pitch Bold';text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#544568;fill-opacity:1;stroke:none;stroke-width:1.68354082"
+       x="2858.5493"
+       y="-851.76239"
        id="text1545"><tspan
          sodipodi:role="line"
-         x="2849.2571"
-         y="-418.76138"
-         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:310.1776123px;font-family:'Courier 10 Pitch';-inkscape-font-specification:'Courier 10 Pitch Bold';text-align:center;text-anchor:middle;fill:#544568;fill-opacity:1;stroke-width:1.61550844"
-         id="tspan1750">Architecture</tspan><tspan
+         x="2858.5493"
+         y="-851.76239"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:250px;font-family:'Courier 10 Pitch';-inkscape-font-specification:'Courier 10 Pitch Bold';text-align:center;text-anchor:middle;fill:#544568;fill-opacity:1;stroke-width:1.68354082"
+         id="tspan16619">How to ensure</tspan><tspan
          sodipodi:role="line"
-         x="2849.2571"
-         y="-31.039368"
-         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:310.1776123px;font-family:'Courier 10 Pitch';-inkscape-font-specification:'Courier 10 Pitch Bold';text-align:center;text-anchor:middle;fill:#544568;fill-opacity:1;stroke-width:1.61550844"
-         id="tspan15230">=</tspan><tspan
+         x="2858.5493"
+         y="-539.26239"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:250px;font-family:'Courier 10 Pitch';-inkscape-font-specification:'Courier 10 Pitch Bold';text-align:center;text-anchor:middle;fill:#544568;fill-opacity:1;stroke-width:1.68354082"
+         id="tspan19799">*-ilities ?</tspan><tspan
          sodipodi:role="line"
-         x="2849.2571"
-         y="356.68265"
-         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:310.1776123px;font-family:'Courier 10 Pitch';-inkscape-font-specification:'Courier 10 Pitch Bold';text-align:center;text-anchor:middle;fill:#544568;fill-opacity:1;stroke-width:1.61550844"
-         id="tspan15236">not functionnal</tspan><tspan
-         sodipodi:role="line"
-         x="2849.2571"
-         y="532.23822"
-         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:310.1776123px;font-family:'Courier 10 Pitch';-inkscape-font-specification:'Courier 10 Pitch Bold';text-align:center;text-anchor:middle;fill:#544568;fill-opacity:1;stroke-width:1.61550844"
+         x="2858.5493"
+         y="-384.58292"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:323.23983765px;font-family:'Courier 10 Pitch';-inkscape-font-specification:'Courier 10 Pitch Bold';text-align:center;text-anchor:middle;fill:#544568;fill-opacity:1;stroke-width:1.68354082"
          id="tspan15234" /></text>
     <flowRoot
        xml:space="preserve"
@@ -533,7 +528,23 @@
            height="297.17355"
            x="906.13574"
            y="1585.6788" /></flowRegion><flowPara
-         id="flowPara1793" /></flowRoot>  </g>
+         id="flowPara1793" /></flowRoot>    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:37.5px;line-height:1.25;font-family:serif;-inkscape-font-specification:serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.9375"
+       x="2650.1814"
+       y="-133.15135"
+       id="text16609"><tspan
+         sodipodi:role="line"
+         id="tspan16607"
+         x="2650.1814"
+         y="-99.972641"
+         style="stroke-width:0.9375"></tspan><tspan
+         sodipodi:role="line"
+         x="2650.1814"
+         y="-53.097641"
+         style="stroke-width:0.9375"
+         id="tspan16611" /></text>
+  </g>
   <style
      id="style2996"
      type="text/css">
