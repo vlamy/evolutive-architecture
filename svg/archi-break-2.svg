@@ -15,7 +15,7 @@
    id="svg2"
    version="1.1"
    inkscape:version="0.92.4 (5da689c313, 2019-01-14)"
-   sodipodi:docname="architecture.svg">
+   sodipodi:docname="archi-break-2.svg">
   <defs
      id="defs4">
     <marker
@@ -415,7 +415,7 @@
      inkscape:pageopacity="1"
      inkscape:pageshadow="2"
      inkscape:zoom="0.13"
-     inkscape:cx="-571.98667"
+     inkscape:cx="1793.6171"
      inkscape:cy="1104.3001"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
@@ -473,42 +473,22 @@
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:67.34164429px;line-height:1.25;font-family:'Courier 10 Pitch';-inkscape-font-specification:'Courier 10 Pitch Bold';text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#544568;fill-opacity:1;stroke:none;stroke-width:1.68354082"
-       x="2860.4243"
-       y="-756.13739"
+       x="2880.1838"
+       y="-682.14697"
        id="text1545"><tspan
          sodipodi:role="line"
-         x="2860.4243"
-         y="-756.13739"
-         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:323.23983765px;font-family:'Courier 10 Pitch';-inkscape-font-specification:'Courier 10 Pitch Bold';text-align:center;text-anchor:middle;fill:#544568;fill-opacity:1;stroke-width:1.68354082"
-         id="tspan1750">Architecture</tspan><tspan
+         x="2880.1838"
+         y="-682.14697"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:250px;font-family:'Courier 10 Pitch';-inkscape-font-specification:'Courier 10 Pitch Bold';text-align:center;text-anchor:middle;fill:#544568;fill-opacity:1;stroke-width:1.68354082"
+         id="tspan19799">Ok with</tspan><tspan
          sodipodi:role="line"
-         x="2860.4243"
-         y="-352.08759"
-         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:323.23983765px;font-family:'Courier 10 Pitch';-inkscape-font-specification:'Courier 10 Pitch Bold';text-align:center;text-anchor:middle;fill:#544568;fill-opacity:1;stroke-width:1.68354082"
-         id="tspan15230">=</tspan><tspan
+         x="2880.1838"
+         y="-369.64697"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:250px;font-family:'Courier 10 Pitch';-inkscape-font-specification:'Courier 10 Pitch Bold';text-align:center;text-anchor:middle;fill:#544568;fill-opacity:1;stroke-width:1.68354082"
+         id="tspan1219">architecture ?</tspan><tspan
          sodipodi:role="line"
-         x="2916.845"
-         y="-65.250496"
-         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:187.58016968px;font-family:'Courier 10 Pitch';-inkscape-font-specification:'Courier 10 Pitch Bold';text-align:center;text-anchor:middle;fill:#544568;fill-opacity:1;stroke-width:1.68354082"
-         id="tspan15236">&quot;stuff that matter&quot;     </tspan><tspan
-         sodipodi:role="line"
-         x="2860.4243"
-         y="285.79819"
-         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:322.5px;font-family:'Courier 10 Pitch';-inkscape-font-specification:'Courier 10 Pitch Bold';text-align:center;text-anchor:middle;fill:#544568;fill-opacity:1;stroke-width:1.68354082"
-         id="tspan16615">=</tspan><tspan
-         sodipodi:role="line"
-         x="2916.845"
-         y="572.34973"
-         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:187.58016968px;font-family:'Courier 10 Pitch';-inkscape-font-specification:'Courier 10 Pitch Bold';text-align:center;text-anchor:middle;fill:#544568;fill-opacity:1;stroke-width:1.68354082"
-         id="tspan16617">understand business    </tspan><tspan
-         sodipodi:role="line"
-         x="2916.845"
-         y="806.82495"
-         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:187.58016968px;font-family:'Courier 10 Pitch';-inkscape-font-specification:'Courier 10 Pitch Bold';text-align:center;text-anchor:middle;fill:#544568;fill-opacity:1;stroke-width:1.68354082"
-         id="tspan16619">or domain NFR   </tspan><tspan
-         sodipodi:role="line"
-         x="2860.4243"
-         y="937.41162"
+         x="2880.1838"
+         y="-214.9675"
          style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:323.23983765px;font-family:'Courier 10 Pitch';-inkscape-font-specification:'Courier 10 Pitch Bold';text-align:center;text-anchor:middle;fill:#544568;fill-opacity:1;stroke-width:1.68354082"
          id="tspan15234" /></text>
     <flowRoot
@@ -564,6 +544,22 @@
          y="-53.097641"
          style="stroke-width:0.9375"
          id="tspan16611" /></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:37.5px;line-height:1.25;font-family:serif;-inkscape-font-specification:serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.9375"
+       x="1741.5275"
+       y="97.617958"
+       id="text20141"><tspan
+         sodipodi:role="line"
+         id="tspan20139"
+         x="1741.5275"
+         y="130.79666"
+         style="stroke-width:0.9375" /></text>
+    <path
+       id="path1465"
+       d="m 2848.4986,-11.877208 c 222.2179,0 403.0048,180.786838 403.0048,403.004758 0,222.21792 -180.7869,403.0048 -403.0048,403.0048 -222.218,0 -403.0048,-180.78688 -403.0048,-403.0048 0,-222.21792 180.7868,-403.004758 403.0048,-403.004758 z m 0,-80.601 c -267.0708,0 -483.6058,216.535018 -483.6058,483.605758 0,267.07075 216.535,483.60576 483.6058,483.60576 267.0707,0 483.6057,-216.53501 483.6057,-483.60576 0,-267.07074 -216.535,-483.605758 -483.6057,-483.605758 z m 177.0384,302.251448 -227.4151,233.09798 -106.5523,-100.98978 -74.7977,74.87507 181.35,175.87344 302.2557,-308.01603 z"
+       inkscape:connector-curvature="0"
+       style="fill:#008000;stroke-width:40.30047989" />
   </g>
   <style
      id="style2996"

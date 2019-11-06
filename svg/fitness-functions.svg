@@ -15,7 +15,7 @@
    id="svg2"
    version="1.1"
    inkscape:version="0.92.4 (5da689c313, 2019-01-14)"
-   sodipodi:docname="architecture.svg">
+   sodipodi:docname="fitness-functions.svg">
   <defs
      id="defs4">
     <marker
@@ -415,7 +415,7 @@
      inkscape:pageopacity="1"
      inkscape:pageshadow="2"
      inkscape:zoom="0.13"
-     inkscape:cx="-571.98667"
+     inkscape:cx="1793.6171"
      inkscape:cy="1104.3001"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
@@ -439,7 +439,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -473,42 +473,17 @@
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:67.34164429px;line-height:1.25;font-family:'Courier 10 Pitch';-inkscape-font-specification:'Courier 10 Pitch Bold';text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#544568;fill-opacity:1;stroke:none;stroke-width:1.68354082"
-       x="2860.4243"
-       y="-756.13739"
+       x="2858.5493"
+       y="-851.76239"
        id="text1545"><tspan
          sodipodi:role="line"
-         x="2860.4243"
-         y="-756.13739"
-         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:323.23983765px;font-family:'Courier 10 Pitch';-inkscape-font-specification:'Courier 10 Pitch Bold';text-align:center;text-anchor:middle;fill:#544568;fill-opacity:1;stroke-width:1.68354082"
-         id="tspan1750">Architecture</tspan><tspan
+         x="2858.5493"
+         y="-851.76239"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:250px;font-family:'Courier 10 Pitch';-inkscape-font-specification:'Courier 10 Pitch Bold';text-align:center;text-anchor:middle;fill:#544568;fill-opacity:1;stroke-width:1.68354082"
+         id="tspan19799">Fitness function</tspan><tspan
          sodipodi:role="line"
-         x="2860.4243"
-         y="-352.08759"
-         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:323.23983765px;font-family:'Courier 10 Pitch';-inkscape-font-specification:'Courier 10 Pitch Bold';text-align:center;text-anchor:middle;fill:#544568;fill-opacity:1;stroke-width:1.68354082"
-         id="tspan15230">=</tspan><tspan
-         sodipodi:role="line"
-         x="2916.845"
-         y="-65.250496"
-         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:187.58016968px;font-family:'Courier 10 Pitch';-inkscape-font-specification:'Courier 10 Pitch Bold';text-align:center;text-anchor:middle;fill:#544568;fill-opacity:1;stroke-width:1.68354082"
-         id="tspan15236">&quot;stuff that matter&quot;     </tspan><tspan
-         sodipodi:role="line"
-         x="2860.4243"
-         y="285.79819"
-         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:322.5px;font-family:'Courier 10 Pitch';-inkscape-font-specification:'Courier 10 Pitch Bold';text-align:center;text-anchor:middle;fill:#544568;fill-opacity:1;stroke-width:1.68354082"
-         id="tspan16615">=</tspan><tspan
-         sodipodi:role="line"
-         x="2916.845"
-         y="572.34973"
-         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:187.58016968px;font-family:'Courier 10 Pitch';-inkscape-font-specification:'Courier 10 Pitch Bold';text-align:center;text-anchor:middle;fill:#544568;fill-opacity:1;stroke-width:1.68354082"
-         id="tspan16617">understand business    </tspan><tspan
-         sodipodi:role="line"
-         x="2916.845"
-         y="806.82495"
-         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:187.58016968px;font-family:'Courier 10 Pitch';-inkscape-font-specification:'Courier 10 Pitch Bold';text-align:center;text-anchor:middle;fill:#544568;fill-opacity:1;stroke-width:1.68354082"
-         id="tspan16619">or domain NFR   </tspan><tspan
-         sodipodi:role="line"
-         x="2860.4243"
-         y="937.41162"
+         x="2858.5493"
+         y="-697.08289"
          style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:323.23983765px;font-family:'Courier 10 Pitch';-inkscape-font-specification:'Courier 10 Pitch Bold';text-align:center;text-anchor:middle;fill:#544568;fill-opacity:1;stroke-width:1.68354082"
          id="tspan15234" /></text>
     <flowRoot
@@ -564,6 +539,118 @@
          y="-53.097641"
          style="stroke-width:0.9375"
          id="tspan16611" /></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:67.34165192px;line-height:1.25;font-family:'Courier 10 Pitch';-inkscape-font-specification:'Courier 10 Pitch Bold';text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#544568;fill-opacity:1;stroke:none;stroke-width:1.68354082"
+       x="2858.6362"
+       y="-454.74744"
+       id="text1545-6"><tspan
+         sodipodi:role="line"
+         x="2858.6362"
+         y="-454.74744"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:168.75px;font-family:'Courier 10 Pitch';-inkscape-font-specification:'Courier 10 Pitch';text-align:center;text-anchor:middle;fill:#544568;fill-opacity:1;stroke-width:1.68354082"
+         id="tspan20137">Verifying (testing ?) NFRs</tspan><tspan
+         sodipodi:role="line"
+         x="2858.6362"
+         y="-331.85959"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:168.75px;font-family:'Courier 10 Pitch';-inkscape-font-specification:'Courier 10 Pitch';text-align:center;text-anchor:middle;fill:#544568;fill-opacity:1;stroke-width:1.68354082"
+         id="tspan15234-0" /></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:37.5px;line-height:1.25;font-family:serif;-inkscape-font-specification:serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.9375"
+       x="1741.5275"
+       y="97.617958"
+       id="text20141"><tspan
+         sodipodi:role="line"
+         id="tspan20139"
+         x="1741.5275"
+         y="130.79666"
+         style="stroke-width:0.9375" /></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:67.34165192px;line-height:1.25;font-family:'Courier 10 Pitch';-inkscape-font-specification:'Courier 10 Pitch Bold';text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#544568;fill-opacity:1;stroke:none;stroke-width:1.68354082"
+       x="2393.9668"
+       y="180.53981"
+       id="text1545-6-6"><tspan
+         sodipodi:role="line"
+         x="2393.9668"
+         y="180.53981"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:125px;font-family:'Courier 10 Pitch';-inkscape-font-specification:'Courier 10 Pitch';text-align:center;text-anchor:middle;fill:#544568;fill-opacity:1;stroke-width:1.68354082"
+         id="tspan20137-5">unit/integration tests</tspan><tspan
+         sodipodi:role="line"
+         x="2393.9668"
+         y="336.78979"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:125px;font-family:'Courier 10 Pitch';-inkscape-font-specification:'Courier 10 Pitch';text-align:center;text-anchor:middle;fill:#544568;fill-opacity:1;stroke-width:1.68354082"
+         id="tspan20232"> (non functionnal)</tspan><tspan
+         sodipodi:role="line"
+         x="2393.9668"
+         y="442.90274"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:168.75px;font-family:'Courier 10 Pitch';-inkscape-font-specification:'Courier 10 Pitch';text-align:center;text-anchor:middle;fill:#544568;fill-opacity:1;stroke-width:1.68354082"
+         id="tspan15234-0-7" /></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:67.34165192px;line-height:1.25;font-family:'Courier 10 Pitch';-inkscape-font-specification:'Courier 10 Pitch Bold';text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#544568;fill-opacity:1;stroke:none;stroke-width:1.68354082"
+       x="1811.9664"
+       y="-85.598389"
+       id="text1545-6-6-8"><tspan
+         sodipodi:role="line"
+         x="1811.9664"
+         y="-85.598389"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:125.00000763px;font-family:'Courier 10 Pitch';-inkscape-font-specification:'Courier 10 Pitch Bold';text-align:center;text-anchor:middle;fill:#544568;fill-opacity:1;stroke-width:1.68354082"
+         id="tspan20137-5-9">metrics</tspan><tspan
+         sodipodi:role="line"
+         x="1811.9664"
+         y="20.833633"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:168.75px;font-family:'Courier 10 Pitch';-inkscape-font-specification:'Courier 10 Pitch';text-align:center;text-anchor:middle;fill:#544568;fill-opacity:1;stroke-width:1.68354082"
+         id="tspan15234-0-7-0" /></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:67.34165192px;line-height:1.25;font-family:'Courier 10 Pitch';-inkscape-font-specification:'Courier 10 Pitch Bold';text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#544568;fill-opacity:1;stroke:none;stroke-width:1.68354082"
+       x="3723.0242"
+       y="-33.055111"
+       id="text1545-6-6-8-1"><tspan
+         sodipodi:role="line"
+         x="3723.0242"
+         y="-33.055111"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:125.00000763px;font-family:'Courier 10 Pitch';-inkscape-font-specification:'Courier 10 Pitch';text-align:center;text-anchor:middle;fill:#544568;fill-opacity:1;stroke-width:1.68354082"
+         id="tspan20137-5-9-1">monitoring</tspan><tspan
+         sodipodi:role="line"
+         x="3723.0242"
+         y="73.057816"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:168.75px;font-family:'Courier 10 Pitch';-inkscape-font-specification:'Courier 10 Pitch';text-align:center;text-anchor:middle;fill:#544568;fill-opacity:1;stroke-width:1.68354082"
+         id="tspan15234-0-7-0-1" /></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:67.34165192px;line-height:1.25;font-family:'Courier 10 Pitch';-inkscape-font-specification:'Courier 10 Pitch Bold';text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#544568;fill-opacity:1;stroke:none;stroke-width:1.68354082"
+       x="2814.3701"
+       y="753.0025"
+       id="text1545-6-6-8-6"><tspan
+         sodipodi:role="line"
+         x="2814.3701"
+         y="753.0025"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:125.00000763px;font-family:'Courier 10 Pitch';-inkscape-font-specification:'Courier 10 Pitch';text-align:center;text-anchor:middle;fill:#544568;fill-opacity:1;stroke-width:1.68354082"
+         id="tspan20137-5-9-4">manual or automatic triggers</tspan><tspan
+         sodipodi:role="line"
+         x="2814.3701"
+         y="859.11542"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:168.75px;font-family:'Courier 10 Pitch';-inkscape-font-specification:'Courier 10 Pitch';text-align:center;text-anchor:middle;fill:#544568;fill-opacity:1;stroke-width:1.68354082"
+         id="tspan15234-0-7-0-8" /></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:67.34165192px;line-height:1.25;font-family:'Courier 10 Pitch';-inkscape-font-specification:'Courier 10 Pitch Bold';text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#544568;fill-opacity:1;stroke:none;stroke-width:1.68354082"
+       x="3528.3125"
+       y="486.1756"
+       id="text1545-6-6-8-7"><tspan
+         sodipodi:role="line"
+         x="3528.3125"
+         y="486.1756"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:125.00000763px;font-family:'Courier 10 Pitch';-inkscape-font-specification:'Courier 10 Pitch Bold';text-align:center;text-anchor:middle;fill:#544568;fill-opacity:1;stroke-width:1.68354082"
+         id="tspan20137-5-9-9">periodical</tspan><tspan
+         sodipodi:role="line"
+         x="3528.3125"
+         y="592.6076"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:168.75px;font-family:'Courier 10 Pitch';-inkscape-font-specification:'Courier 10 Pitch';text-align:center;text-anchor:middle;fill:#544568;fill-opacity:1;stroke-width:1.68354082"
+         id="tspan15234-0-7-0-0" /></text>
   </g>
   <style
      id="style2996"

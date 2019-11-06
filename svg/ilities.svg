@@ -7,6 +7,7 @@
    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
    xmlns:svg="http://www.w3.org/2000/svg"
    xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    width="800mm"
@@ -15,7 +16,7 @@
    id="svg2"
    version="1.1"
    inkscape:version="0.92.4 (5da689c313, 2019-01-14)"
-   sodipodi:docname="06-ilities.svg">
+   sodipodi:docname="ilities.svg">
   <defs
      id="defs4">
     <marker
@@ -415,7 +416,7 @@
      inkscape:pageopacity="1"
      inkscape:pageshadow="2"
      inkscape:zoom="0.13"
-     inkscape:cx="1793.6171"
+     inkscape:cx="235.92479"
      inkscape:cy="1104.3001"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
@@ -439,7 +440,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -470,27 +471,31 @@
          x="2398.0229"
          y="-73.625183"
          style="fill:#544568;fill-opacity:1;stroke-width:0.51095629" /></text>
-    <text
-       xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:67.34164429px;line-height:1.25;font-family:'Courier 10 Pitch';-inkscape-font-specification:'Courier 10 Pitch Bold';text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#544568;fill-opacity:1;stroke:none;stroke-width:1.68354082"
-       x="2858.5493"
-       y="-851.76239"
-       id="text1545"><tspan
-         sodipodi:role="line"
-         x="2858.5493"
+    <a
+       id="a26664"
+       xlink:href="https://en.wikipedia.org/wiki/Non-functional_requirement">
+      <text
+         id="text1545"
          y="-851.76239"
-         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:250px;font-family:'Courier 10 Pitch';-inkscape-font-specification:'Courier 10 Pitch Bold';text-align:center;text-anchor:middle;fill:#544568;fill-opacity:1;stroke-width:1.68354082"
-         id="tspan1750">*-ilities</tspan><tspan
-         sodipodi:role="line"
          x="2858.5493"
-         y="-539.26239"
-         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:250px;font-family:'Courier 10 Pitch';-inkscape-font-specification:'Courier 10 Pitch Bold';text-align:center;text-anchor:middle;fill:#544568;fill-opacity:1;stroke-width:1.68354082"
-         id="tspan16619">(non functionnal)</tspan><tspan
-         sodipodi:role="line"
-         x="2858.5493"
-         y="-384.58292"
-         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:323.23983765px;font-family:'Courier 10 Pitch';-inkscape-font-specification:'Courier 10 Pitch Bold';text-align:center;text-anchor:middle;fill:#544568;fill-opacity:1;stroke-width:1.68354082"
-         id="tspan15234" /></text>
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:67.34164429px;line-height:1.25;font-family:'Courier 10 Pitch';-inkscape-font-specification:'Courier 10 Pitch Bold';text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#544568;fill-opacity:1;stroke:none;stroke-width:1.68354082"
+         xml:space="preserve"><tspan
+           id="tspan1750"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:250px;font-family:'Courier 10 Pitch';-inkscape-font-specification:'Courier 10 Pitch Bold';text-align:center;text-anchor:middle;fill:#544568;fill-opacity:1;stroke-width:1.68354082"
+           y="-851.76239"
+           x="2858.5493"
+           sodipodi:role="line">*-ilities</tspan><tspan
+           id="tspan16619"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:250px;font-family:'Courier 10 Pitch';-inkscape-font-specification:'Courier 10 Pitch Bold';text-align:center;text-anchor:middle;fill:#544568;fill-opacity:1;stroke-width:1.68354082"
+           y="-539.26239"
+           x="2858.5493"
+           sodipodi:role="line">(non functionnal)</tspan><tspan
+           id="tspan15234"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:323.23983765px;font-family:'Courier 10 Pitch';-inkscape-font-specification:'Courier 10 Pitch Bold';text-align:center;text-anchor:middle;fill:#544568;fill-opacity:1;stroke-width:1.68354082"
+           y="-384.58292"
+           x="2858.5493"
+           sodipodi:role="line" /></text>
+    </a>
     <flowRoot
        xml:space="preserve"
        id="flowRoot1547"
@@ -538,7 +543,7 @@
          id="tspan16607"
          x="2650.1814"
          y="-99.972641"
-         style="stroke-width:0.9375"></tspan><tspan
+         style="stroke-width:0.9375" /><tspan
          sodipodi:role="line"
          x="2650.1814"
          y="-53.097641"
@@ -574,7 +579,7 @@
          id="tspan16619-1-2">reactivity</tspan><tspan
          sodipodi:role="line"
          x="3236.3303"
-         y="20.181887"
+         y="20.181885"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:323.23989868px;font-family:'Courier 10 Pitch';-inkscape-font-specification:'Courier 10 Pitch';text-align:center;text-anchor:middle;fill:#544568;fill-opacity:1;stroke-width:1.68354082"
          id="tspan15234-0-7" /></text>
     <text
@@ -608,7 +613,7 @@
          id="tspan16619-1-2-2-1">availability</tspan><tspan
          sodipodi:role="line"
          x="2094.7375"
-         y="208.62929"
+         y="208.62927"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:250.78016663px;font-family:'Courier 10 Pitch';-inkscape-font-specification:'Courier 10 Pitch';text-align:center;text-anchor:middle;fill:#544568;fill-opacity:1;stroke-width:1.3061465"
          id="tspan15234-0-7-7-4" /></text>
     <text
