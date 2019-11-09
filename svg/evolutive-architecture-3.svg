@@ -15,7 +15,7 @@
    id="svg2"
    version="1.1"
    inkscape:version="0.92.4 (5da689c313, 2019-01-14)"
-   sodipodi:docname="evolutive-architecture.svg">
+   sodipodi:docname="evolutive-architecture-3.svg">
   <defs
      id="defs4">
     <marker
@@ -546,6 +546,32 @@
          id="tspan16611" /></text>
     <text
        xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:67.34165192px;line-height:1.25;font-family:'Courier 10 Pitch';-inkscape-font-specification:'Courier 10 Pitch Bold';text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#544568;fill-opacity:1;stroke:none;stroke-width:1.68354082"
+       x="2833.2517"
+       y="-222.10321"
+       id="text1545-6"><tspan
+         sodipodi:role="line"
+         x="2833.2517"
+         y="-222.10321"
+         style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:168.75px;font-family:'Courier 10 Pitch';-inkscape-font-specification:'Courier 10 Pitch Italic';text-align:center;text-anchor:middle;fill:#544568;fill-opacity:1;stroke-width:1.68354082"
+         id="tspan20137">How is long-term planning</tspan><tspan
+         sodipodi:role="line"
+         x="2833.2517"
+         y="-11.16571"
+         style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:168.75px;font-family:'Courier 10 Pitch';-inkscape-font-specification:'Courier 10 Pitch Italic';text-align:center;text-anchor:middle;fill:#544568;fill-opacity:1;stroke-width:1.68354082"
+         id="tspan21997"> possible when everything</tspan><tspan
+         sodipodi:role="line"
+         x="2833.2517"
+         y="199.77179"
+         style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:168.75px;font-family:'Courier 10 Pitch';-inkscape-font-specification:'Courier 10 Pitch Italic';text-align:center;text-anchor:middle;fill:#544568;fill-opacity:1;stroke-width:1.68354082"
+         id="tspan21999">changes all the time ?</tspan><tspan
+         sodipodi:role="line"
+         x="2833.2517"
+         y="322.65964"
+         style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:168.75px;font-family:'Courier 10 Pitch';-inkscape-font-specification:'Courier 10 Pitch Italic';text-align:center;text-anchor:middle;fill:#544568;fill-opacity:1;stroke-width:1.68354082"
+         id="tspan15234-0" /></text>
+    <text
+       xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:37.5px;line-height:1.25;font-family:serif;-inkscape-font-specification:serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.9375"
        x="1741.5275"
        y="97.617958"
@@ -555,6 +581,27 @@
          x="1741.5275"
          y="130.79666"
          style="stroke-width:0.9375" /></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:67.34165192px;line-height:1.25;font-family:'Courier 10 Pitch';-inkscape-font-specification:'Courier 10 Pitch Bold';text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#544568;fill-opacity:1;stroke:none;stroke-width:1.68354082"
+       x="2835.6641"
+       y="587.37878"
+       id="text1545-6-2"><tspan
+         sodipodi:role="line"
+         x="2835.6641"
+         y="587.37878"
+         style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:168.75px;font-family:'Courier 10 Pitch';-inkscape-font-specification:'Courier 10 Pitch Italic';text-align:center;text-anchor:middle;fill:#544568;fill-opacity:1;stroke-width:1.68354082"
+         id="tspan21999-0">Since we can't avoid change,</tspan><tspan
+         sodipodi:role="line"
+         x="2835.6641"
+         y="798.31628"
+         style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:168.75px;font-family:'Courier 10 Pitch';-inkscape-font-specification:'Courier 10 Pitch Italic';text-align:center;text-anchor:middle;fill:#544568;fill-opacity:1;stroke-width:1.68354082"
+         id="tspan22033">we need to exploit it !</tspan><tspan
+         sodipodi:role="line"
+         x="2835.6641"
+         y="921.20416"
+         style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:168.75px;font-family:'Courier 10 Pitch';-inkscape-font-specification:'Courier 10 Pitch Italic';text-align:center;text-anchor:middle;fill:#544568;fill-opacity:1;stroke-width:1.68354082"
+         id="tspan15234-0-1" /></text>
   </g>
   <style
      id="style2996"
