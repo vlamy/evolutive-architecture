@@ -415,7 +415,7 @@
      inkscape:pageopacity="1"
      inkscape:pageshadow="2"
      inkscape:zoom="0.13"
-     inkscape:cx="-571.98667"
+     inkscape:cx="1570.321"
      inkscape:cy="1104.3001"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
@@ -473,42 +473,19 @@
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:67.34164429px;line-height:1.25;font-family:'Courier 10 Pitch';-inkscape-font-specification:'Courier 10 Pitch Bold';text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#544568;fill-opacity:1;stroke:none;stroke-width:1.68354082"
-       x="2860.4243"
-       y="-756.13739"
+       x="2983.0205"
+       y="-835.46429"
        id="text1545"><tspan
          sodipodi:role="line"
-         x="2860.4243"
-         y="-756.13739"
-         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:323.23983765px;font-family:'Courier 10 Pitch';-inkscape-font-specification:'Courier 10 Pitch Bold';text-align:center;text-anchor:middle;fill:#544568;fill-opacity:1;stroke-width:1.68354082"
-         id="tspan1750">Architecture</tspan><tspan
-         sodipodi:role="line"
-         x="2860.4243"
-         y="-352.08759"
-         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:323.23983765px;font-family:'Courier 10 Pitch';-inkscape-font-specification:'Courier 10 Pitch Bold';text-align:center;text-anchor:middle;fill:#544568;fill-opacity:1;stroke-width:1.68354082"
-         id="tspan15230">=</tspan><tspan
-         sodipodi:role="line"
-         x="2916.845"
-         y="-65.250496"
+         x="3039.4412"
+         y="-835.46429"
          style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:187.58016968px;font-family:'Courier 10 Pitch';-inkscape-font-specification:'Courier 10 Pitch Bold';text-align:center;text-anchor:middle;fill:#544568;fill-opacity:1;stroke-width:1.68354082"
-         id="tspan15236">&quot;stuff that matter&quot;     </tspan><tspan
+         id="tspan16619"><tspan
+   id="tspan31516"
+   style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:323.23983765px;font-family:'Courier 10 Pitch';-inkscape-font-specification:'Courier 10 Pitch Bold';text-align:center;text-anchor:middle;fill:#544568;fill-opacity:1;stroke-width:1.68354082">Architecture</tspan>   </tspan><tspan
          sodipodi:role="line"
-         x="2860.4243"
-         y="285.79819"
-         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:322.5px;font-family:'Courier 10 Pitch';-inkscape-font-specification:'Courier 10 Pitch Bold';text-align:center;text-anchor:middle;fill:#544568;fill-opacity:1;stroke-width:1.68354082"
-         id="tspan16615">=</tspan><tspan
-         sodipodi:role="line"
-         x="2916.845"
-         y="572.34973"
-         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:187.58016968px;font-family:'Courier 10 Pitch';-inkscape-font-specification:'Courier 10 Pitch Bold';text-align:center;text-anchor:middle;fill:#544568;fill-opacity:1;stroke-width:1.68354082"
-         id="tspan16617">understand business    </tspan><tspan
-         sodipodi:role="line"
-         x="2916.845"
-         y="806.82495"
-         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:187.58016968px;font-family:'Courier 10 Pitch';-inkscape-font-specification:'Courier 10 Pitch Bold';text-align:center;text-anchor:middle;fill:#544568;fill-opacity:1;stroke-width:1.68354082"
-         id="tspan16619">or domain NFR   </tspan><tspan
-         sodipodi:role="line"
-         x="2860.4243"
-         y="937.41162"
+         x="2983.0205"
+         y="-652.51575"
          style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:323.23983765px;font-family:'Courier 10 Pitch';-inkscape-font-specification:'Courier 10 Pitch Bold';text-align:center;text-anchor:middle;fill:#544568;fill-opacity:1;stroke-width:1.68354082"
          id="tspan15234" /></text>
     <flowRoot
@@ -564,6 +541,42 @@
          y="-53.097641"
          style="stroke-width:0.9375"
          id="tspan16611" /></text>
+    <g
+       id="g31567"
+       transform="translate(79.326922,64.903845)">
+      <text
+         id="text1545-2"
+         y="-272.80298"
+         x="2085.7361"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:39.36973572px;line-height:1.25;font-family:'Courier 10 Pitch';-inkscape-font-specification:'Courier 10 Pitch Bold';text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#544568;fill-opacity:1;stroke:none;stroke-width:0.98424309"
+         xml:space="preserve"><tspan
+           id="tspan16619-8"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:109.66440582px;font-family:'Courier 10 Pitch';-inkscape-font-specification:'Courier 10 Pitch Bold';text-align:center;text-anchor:middle;fill:#544568;fill-opacity:1;stroke-width:0.98424309"
+           y="-272.80298"
+           x="2118.7212"
+           sodipodi:role="line">Ralph Johnson   </tspan><tspan
+           id="tspan15234-1"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:188.97468567px;font-family:'Courier 10 Pitch';-inkscape-font-specification:'Courier 10 Pitch Bold';text-align:center;text-anchor:middle;fill:#544568;fill-opacity:1;stroke-width:0.98424309"
+           y="-196.4585"
+           x="2085.7361"
+           sodipodi:role="line" /></text>
+      <text
+         id="text1545-7-5"
+         y="-423.68817"
+         x="2419.2979"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:67.34165192px;line-height:1.25;font-family:'Courier 10 Pitch';-inkscape-font-specification:'Courier 10 Pitch Bold';text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#544568;fill-opacity:1;stroke:none;stroke-width:1.68354082"
+         xml:space="preserve"><tspan
+           id="tspan16619-0-9"
+           style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:150px;font-family:'Courier 10 Pitch';-inkscape-font-specification:'Courier 10 Pitch Italic';text-align:center;text-anchor:middle;fill:#544568;fill-opacity:1;stroke-width:1.68354082"
+           y="-423.68817"
+           x="2464.415"
+           sodipodi:role="line">&quot;stuff that matter&quot;  </tspan><tspan
+           id="tspan15234-18-9"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:323.23989868px;font-family:'Courier 10 Pitch';-inkscape-font-specification:'Courier 10 Pitch Bold';text-align:center;text-anchor:middle;fill:#544568;fill-opacity:1;stroke-width:1.68354082"
+           y="-307.98956"
+           x="2419.2979"
+           sodipodi:role="line" /></text>
+    </g>
   </g>
   <style
      id="style2996"
